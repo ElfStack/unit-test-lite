@@ -36,7 +36,7 @@ echo $unit->result();
 
  And you will got(show as 67%):
 
-![Unit Test Report](http://7xouk0.com1.z0.glb.clouddn.com/UnitTestReport.png)
+![Unit Test Report](https://github.com/Tamce/outter-img/raw/master/UnitTestReport.png)
 
 ## Usage
 ```
