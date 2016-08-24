@@ -1,0 +1,21 @@
+{
+    "name": "elfstack/unit-test-lite",
+    "description": "A light unit test class providing basic test function and beautiful report.",
+    "keywords": ["unit", "unit test", "unit-test", "test", "tests"],
+    "homepage": "",
+    "version": "0.1.2",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tamce",
+            "email": "tamce@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ElfStack\\": "src/"
+        }
+    },
+    "require": {}
+}
