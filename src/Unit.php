@@ -2,7 +2,6 @@
 /**
  * 文件提供单元测试类 Unit
  *
- * @version   0.1.2
  * @author    ElfStack Dev Team
  * @copyright Copyright 2016 by ElfStack Dev Team, All rights reserved.
  */
