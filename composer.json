@@ -2,7 +2,7 @@
     "name": "elfstack/unit-test-lite",
     "description": "A light unit test class providing basic test function and beautiful report.",
     "keywords": ["unit", "unit test", "unit-test", "test", "tests"],
-    "homepage": "",
+    "homepage": "https://github.com/elfstack/unit-test-lite",
     "type": "library",
     "license": "MIT",
     "authors": [

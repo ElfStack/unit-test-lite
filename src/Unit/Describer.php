@@ -1,6 +1,8 @@
 <?php
 namespace ElfStack\Unit;
 
+use ElfStack\Unit;
+
 /**
  * 单元测试描述类
  *

@@ -8,8 +8,8 @@
 
 namespace ElfStack;
 
-use Unit\Describer;
-use Unit\Expector;
+use ElfStack\Unit\Describer;
+use ElfStack\Unit\Expector;
 
 /**
  * 单元测试接口类
@@ -360,13 +360,3 @@ EOF;
 		return $str;
 	}
 }	// End of class Unit
-
-
-namespace ElfStack\XPlugin;
-
-/**
- * 导出名字
- *
- * @ignore
- */
-class Unit extends Unit\Unit {}
